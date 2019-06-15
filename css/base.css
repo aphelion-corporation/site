@@ -11,3 +11,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+#placeholder_socialbar {
+	padding: 30px;
+	word-spacing: 10px;
+}
