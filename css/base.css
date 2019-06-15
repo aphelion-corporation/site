@@ -2,8 +2,9 @@
 /* CSS Document */
 
 body {
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 12px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	color: white;
 	text-align: center;
 	padding-top: 75px;
 	background-image: url(../img/background.png);
