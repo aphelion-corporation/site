@@ -8,5 +8,5 @@ body {
 	padding-top: 75px;
 	background-image: url(../img/background.png);
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: cover;
 }
