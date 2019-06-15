@@ -10,6 +10,9 @@ body {
 	background-image: url("http://sclance.com/wallpapers/minimal-space-wallpaper/minimal-space-wallpaper_1174334.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	height: 100%;
 }
 #placeholder_socialbar {
 	padding: 30px;
